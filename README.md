@@ -6,4 +6,7 @@ if PlaceId == 537413528 then
 elseif PlaceId == 6284583030 then
   _G.Color = Color3.fromRGB(255, 255, 255)
 loadstring(game:HttpGet"https://rawscripts.net/raw/SAZA-HUB_496")()
+elseif PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
+  loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/BF")()
 end
+
